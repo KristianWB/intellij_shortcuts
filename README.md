@@ -41,4 +41,6 @@ Ctrl + E = View recent files
 
 Alt + Shift + W  to show a class in package explorer
 
+Shift + F10/F9 - to Run/Debug
+
 
